@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SubratBhattarai
 - 👀 I’m interested in game developing, animation, blender, and web designing.
-- 🌱 I’m currently learning Financial analysis with python.
+- 🌱 I’m currently React js
 - 📫 How to reach me subratbhattarai7@gmail.com
 
 <!---
