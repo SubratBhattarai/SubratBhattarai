@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subratbhattarai.github.io/portfolio/static/css/main.4907d99c.css",
+    "main.js": "/subratbhattarai.github.io/portfolio/static/js/main.160d39e4.js",
+    "static/js/453.b48fcb27.chunk.js": "/subratbhattarai.github.io/portfolio/static/js/453.b48fcb27.chunk.js",
+    "index.html": "/subratbhattarai.github.io/portfolio/index.html",
+    "main.4907d99c.css.map": "/subratbhattarai.github.io/portfolio/static/css/main.4907d99c.css.map",
+    "main.160d39e4.js.map": "/subratbhattarai.github.io/portfolio/static/js/main.160d39e4.js.map",
+    "453.b48fcb27.chunk.js.map": "/subratbhattarai.github.io/portfolio/static/js/453.b48fcb27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4907d99c.css",
+    "static/js/main.160d39e4.js"
+  ]
+}
