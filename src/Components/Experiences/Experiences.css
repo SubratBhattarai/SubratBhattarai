@@ -1,0 +1,47 @@
+:root {
+  --background: #f8f9fa;
+  --text: #212529;
+  --accent: #0d6efd;
+  --card: #ffffff;
+  --highlight: #ef476f;
+}
+
+p{
+    font-size: 1.1rem;
+}
+
+.Experiences{
+    position: absolute;
+    top: 140%;
+    left: 10%;
+    text-align: left;
+    border: 1px solid var(--card);
+    box-shadow: 0px 8px 8px 4px var(--text);
+    width: 80%;
+    padding: 40px;
+}
+.Experiences ul{
+    color: var(--text);
+    font-size: 1.67rem;
+}
+
+.Experiences p{
+    margin-right: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;   
+}
+
+.Experiences h3{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 2.3rem;
+}
+
+.Experiences span{
+    float: right;
+    margin-right: 15%;
+    font-style: italic;
+    font-size: 1.54rem;
+    color: var(--highlight)
+}
+

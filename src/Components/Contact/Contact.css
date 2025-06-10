@@ -1,0 +1,26 @@
+:root {
+  --background: #f8f9fa;
+  --text: #212529;
+  --accent: #0d6efd;
+  --card: #ffffff;
+  --highlight: #ef476f;
+}
+
+.contact{
+    position: absolute;
+    top: 245%;
+    left: 10%;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.contact p{
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.contact a{
+    margin-right: 20px;
+    font-size: 2rem;
+    text-decoration: none;
+}
