@@ -37,7 +37,7 @@ function Navbar() {
         <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5 }}>
           <div className="hero">
             <div className="logo">
-              <h1><a href="https://subratbhattarai.github.io">SB</a></h1>
+              <h1><a href="https://subratbhattarai.github.io/portfolio">SB</a></h1>
               <hr />
             </div>
             <ul>
