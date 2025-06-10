@@ -78,6 +78,14 @@ h2 span{
     font-size: 1.3rem;
 }
 
+.skills{
+    text-align: left;
+    position: absolute;
+    top: 100%;
+    left: 10%;
+    transform: translate(-50, -50);
+}
+
 .skills li{
     margin: 0px;
     font-weight: bold;
