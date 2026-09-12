@@ -1,17 +1,27 @@
 ## Hi there 👋
 ## My Name is Subrat Bhattarai
+### Computer Science Student '27. Interested in Web Dev, Python, Blender, Game Development. Currently learning Machine Learning and Deep learning.
 
-<!--
-**SubratBhattarai/SubratBhattarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills
+### Programming Languages
+1. Python
+2. JavaScript
+3. C++
+4. C
+5. SQl
+6. HTML/ CSS
 
-Here are some ideas to get you started:
+### AI/Machine Learning Skills
+1. PyTorch
+2. TensorFlow
+3. Sckit-Learn
+4. Numpy
+5. Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data and Mathematics
+1. Data Structures and Algorithm
+2. Statistics and Probability
+3. Linear Algebra
+4. Modern Algebra
+5. Differential Equations
+6. Big Data Analytics
