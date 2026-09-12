@@ -43,3 +43,7 @@
 - **Email** - subratbhattarai7@gmail.com
 - **Portfolio** - https://subratbhattarai.github.io/portfolio/
 
+### Hobbies
+- I like to golf and code on free time. 
+- I like reading books related to quantitative finance.
+- I enjoy playing with Git and GitHub and my Porfolio.
