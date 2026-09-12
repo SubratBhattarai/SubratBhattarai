@@ -37,3 +37,9 @@
 - AI Song Recommendation System — Recommendation system built without pretrained models
 - RAG Resume & Job Matching Tool — Local LLM-based application using RAG and Ollama
 - Facial Recognition System
+
+## Let's Connect
+- **LinkedIn** - [Subrat Bhattarai] (https://www.linkedin.com/in/subrat-bhattarai/)
+- **Email** - subratbhattarai7@gmail.com
+- **Portfolio** - https://subratbhattarai.github.io/portfolio/
+
