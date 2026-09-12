@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## My Name is Subrat Bhattarai
-### Computer Science Student '27. Interested in Web Dev, Python, Blender, Game Development. Currently learning Machine Learning and Deep learning.
+### Computer Science, Mathematics, and Data Science Student '27. Interested in Web Dev, Python, Blender, Game Development. Currently learning Machine Learning and Deep learning.
 
 ## Technical Skills
 ### Programming Languages
@@ -25,3 +25,15 @@
 4. Modern Algebra
 5. Differential Equations
 6. Big Data Analytics
+
+## Learning Goals
+- Building stronger AI/ML skills
+- Learning the Mathematics behind ML Algorithms
+- Learning and applying MLOps and Deployment
+- Improving my skills with Git, Jira, Docker, Cloud
+
+## Projects
+- Deepfake Detection Classifier — CNN-based system for detecting AI-generated facial images
+- AI Song Recommendation System — Recommendation system built without pretrained models
+- RAG Resume & Job Matching Tool — Local LLM-based application using RAG and Ollama
+- Facial Recognition System
